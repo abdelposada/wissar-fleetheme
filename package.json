@@ -1,0 +1,34 @@
+{
+  "name": "wissar-fleetheme",
+  "displayName": "Fleetheme",
+  "description": "Forked fleet theme like Jetbrains one",
+  "version": "1.0.0",
+  "publisher": "abdelposada",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abdelposada/wissar-fleetheme"
+  },
+  "keywords": [
+    "theme",
+    "vscode",
+    "dark theme",
+    "fleet",
+    "vscode theme",
+    "jetbrains"
+  ],
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Fleetheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Fleetheme-color-theme.json"
+      }
+    ]
+  }
+}
