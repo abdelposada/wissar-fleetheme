@@ -905,7 +905,7 @@
 			"settings": {
 				"foreground": "#ADD1DE"
 			}
-		}
+		},
 		{
 			"scope": "string",
 			"settings": {
